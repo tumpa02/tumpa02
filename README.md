@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 ### Hi, I'm a Full-Stack Software Developer currently based in Croatia.<br><br>Other than software development, I am also interested in other stuff tech related, mainly Cybersecurity.<br><br>- 📫 How to reach me: jtumpa@gmail.com<br><br>
 
 
@@ -12,13 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tumpa02&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tumpa02&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=tumpa02&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## Donate if you want:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JanTumpa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tumpa) 
 
   
