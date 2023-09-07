@@ -15,7 +15,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tumpa02&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tumpa02&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
 ---
+
 [![](https://visitcount.itsvg.in/api?id=tumpa02&icon=2&color=10)](https://visitcount.itsvg.in)
 
   ## Donate if you want:
