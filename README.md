@@ -20,8 +20,4 @@
 
 [![](https://visitcount.itsvg.in/api?id=tumpa02&icon=2&color=10)](https://visitcount.itsvg.in)
 
-  ## Donate if you want:
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/JanTumpa) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/tumpa) 
-
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
