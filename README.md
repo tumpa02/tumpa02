@@ -1,5 +1,5 @@
 # About Me:
-### Hi, I'm a Full-Stack Software Developer currently based in Croatia.<br><br>Other than software development, I am also interested in other stuff tech related, mainly Cybersecurity.<br><br>- 📫 How to reach me: jan@nemetix.com<br><br>
+### Hi, I'm a Full-Stack Software Developer currently based in Croatia.<br><br>Other than software development, many fields of technology interest me such as Cybsercurity, Networking and DevOps.<br><br>- 📫 How to reach me: jan@nemetix.com<br><br>
 
 
 ## 🌐 Socials:
