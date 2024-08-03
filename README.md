@@ -1,5 +1,5 @@
 # About Me:
-#### Hi, my name is Jan, I'm a Software Engineer.<br><br>Other than software development, I am also really interested in Cybersecurity<br><br> How to reach me: jan@nemetix.com <br><br>
+#### Hi, my name is Jan, I'm a Software Engineer. Other than software development, I am also really interested in Cybersecurity<br><br> How to reach me: jan@nemetix.com <br><br>
 
 
 ## Socials:
