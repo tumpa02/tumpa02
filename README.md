@@ -3,7 +3,6 @@
 
 
 ## Socials:
- - [LinkedIn](https://linkedin.com/in/jantumpa)
  - [x/Twitter](https://x.com/jan_tumpa)
 
 # Main technologies I use:
